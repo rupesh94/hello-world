@@ -1,1 +1,3 @@
 Hello Artifactory and Sonar
+Rupesh has successfully configured the GitWebHook to build hello-world project code automatically using Jenkins.
+Well done Rupesh!!
