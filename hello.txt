@@ -1,3 +1,4 @@
 Hello Artifactory and Sonar
 Rupesh has successfully configured the GitWebHook to build hello-world project code automatically using Jenkins.
+Completed the Configuring Docker Machine as Jenkins Slave, build and deploy code in Docker Host as a container.
 Well done Rupesh!!
